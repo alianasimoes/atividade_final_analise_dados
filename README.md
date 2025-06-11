@@ -2,6 +2,9 @@
 
 Este repositório apresenta uma análise baseada na base de dados do **Sistema Nacional de Informações sobre Saneamento (SNIS)**, com foco na cobertura de água potável e esgotamento sanitário nas áreas urbanas dos estados brasileiros, ao longo dos últimos cinco anos. A análise busca também identificar possíveis relações entre saneamento básico e indicadores de saúde pública.
 
+Trabalho realizado para o Ciclo Formativo Preta Labs em Inteligência Artificial
+Participantes: Aliana Simões, Fernanda Brito, Gabrielle, Izaura Souza, Karla Oliveira, Mariana, Thaís
+
 ## 🧩 Introdução
 
 A base do SNIS foi escolhida por sua:
@@ -24,22 +27,22 @@ A análise foi realizada seguindo um processo estruturado para garantir **clarez
 
 3. **Instalação das bibliotecas necessárias**
    Carregamento de bibliotecas Python voltadas para análise de dados, como: 
-    # Bibliotecas de análise
+    Bibliotecas de análise:
     import pandas as pd
     import numpy as np
 
-    # Bibliotecas para produção de gráficos
+    Bibliotecas para produção de gráficos:
     import seaborn as sns
     import matplotlib.pyplot as plt
     import matplotlib.ticker as ticker
 
-    # Biblioteca para supressão de warnings
+    Biblioteca para supressão de warnings:
     import warnings
     
-    # Biblioteca para acesso à base de dados
+    Biblioteca para acesso à base de dados:
     import basedosdados as bd
 
-    # Configuração de bibliotecas
+    Configuração de bibliotecas:
     warnings.filterwarnings("ignore")
     sns.set_theme(style = "whitegrid")
 
