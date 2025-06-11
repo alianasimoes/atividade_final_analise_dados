@@ -3,7 +3,7 @@
 Este repositório apresenta uma análise baseada na base de dados do **Sistema Nacional de Informações sobre Saneamento (SNIS)**, com foco na cobertura de água potável e esgotamento sanitário nas áreas urbanas dos estados brasileiros, ao longo dos últimos cinco anos. A análise busca também identificar possíveis relações entre saneamento básico e indicadores de saúde pública.
 
 Trabalho realizado para o Ciclo Formativo Preta Labs em Inteligência Artificial
-## Participantes: Aliana Simões, Fernanda Brito, Gabrielle, Izaura Souza, Karla Oliveira, Mariana, Thaís
+# Participantes: Aliana Simões, Fernanda Brito, Gabrielle, Izaura Souza, Karla Oliveira, Mariana, Thaís
 
 ## 🧩 Introdução
 
